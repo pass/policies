@@ -12,7 +12,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Security vulnerability response](security/vulnerability-response.md)
 * [Until the End of the Internet](until-the-end-of-the-internet.md)
 * [U.S. local and state taxes](taxes.md)
-* Account ownership information for [PASS Training & Compliance 2](https://2.PASS Training & Compliance-help.com/article/411-account-ownership) and [PASS Training & Compliance 3](ownership.md)
+* [Account ownership information for PASS Training & Compliance 2](https://2.PASS Training & Compliance-help.com/article/411-account-ownership) and [PASS Training & Compliance 3](ownership.md)
 * [Service Level Agreement (SLA) for PASS Training & Compliance Big](sla.md)
 
 
