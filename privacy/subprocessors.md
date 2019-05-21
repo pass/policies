@@ -6,6 +6,7 @@ Subprocessors located in the United States:
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
 * [Stripe](https://stripe.com/privacy). Payment processing services.
 * [Google Analytics](https://privacy.google.com/businesses/compliance/#!?modal_active=none). Web analytics service.
+* [Pardot](https://www.pardot.com/legal/permission-based-marketing-policy/) Marketing Automation Service.
 
 Our Sites, Assets, and CDNs
 * *.passtesting.com
@@ -22,7 +23,7 @@ Payment Processor
 Analytics, Tracking, and Tools
 *  pi.pardot.com
 * .google-analytics.com
-* www.google.com/recaptcha/api2/anchor
+* .google.com/recaptcha/api2/anchor
 
 Platform Detail
 * PASS leverages the Heroku platform for all its web server needs. We use Amazon S3 to handle our assets. Extra application and database servers can be instantly spun up as needed, allowing us to scale quickly and efficiently. We leverage caching technologies and optimize code for proficiency. Third parties such as Pardot and Google Analytics collect analytical data pertaining to our system’s performance.

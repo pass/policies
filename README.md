@@ -13,7 +13,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [Until the End of the Internet](until-the-end-of-the-internet.md)
 * [U.S. local and state taxes](taxes.md)
 * [Account ownership information for PASS Training & Compliance](ownership.md)
-* [Service Level Agreement (SLA) for PASS Training & Compliance Big](sla.md)
+* [Service Level Agreement (SLA) for PASS Training & Compliance](sla.md)
 
 
 ## Public Contributions Welcome
