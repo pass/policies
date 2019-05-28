@@ -6,7 +6,7 @@ Subprocessors located in the United States:
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/). Cloud services provider.
 * [Stripe](https://stripe.com/privacy). Payment processing services.
 * [Google Analytics](https://privacy.google.com/businesses/compliance/#!?modal_active=none). Web analytics service.
-* [Pardot] (https://www.pardot.com/legal/permission-based-marketing-policy/) Marketing Automation Service.
+* [Pardot](https://www.pardot.com/legal/permission-based-marketing-policy/) Marketing Automation Service.
 
 Our Sites, Assets, and CDNs
 * *.passtesting.com
