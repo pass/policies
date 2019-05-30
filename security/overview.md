@@ -24,7 +24,7 @@ Our software infrastructure is updated regularly with the latest security patche
 
 ## We protect your billing information.
 
-All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>. supplied by Stripe <a href="https://stripe.com/"
+All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>. supplied by [Stripe](https://stripe.com/)
 
 ## Over 10 years in business.
 
