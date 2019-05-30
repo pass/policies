@@ -2,7 +2,7 @@
 
 # A fair refund policy.
 
-Bad refund policies are infuriating. You feel like the company is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with PASS Training & Compliance, for any reason, just contact [our support team][support] and we'll take care of you.
+Bad refund policies are infuriating. You feel like PASS Training & Compliance is just trying to rip you off. We never want our customers to feel that way, so our refund policy is simple: If you're ever unhappy with PASS Training & Compliance, for any reason, just contact [our support team][support] and we'll take care of you.
 
 ## Get in touch
 
