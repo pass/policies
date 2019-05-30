@@ -1,5 +1,3 @@
-[security-whitepaper-pdf]: https://passtesting.com/about/policies/security/passtesting%20Security%20Overview.pdf
-
 # PASS Training & Compliance security overview.
 
 ## We protect your data.
@@ -24,16 +22,12 @@ Our software infrastructure is updated regularly with the latest security patche
 
 ## We protect your billing information.
 
-All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>. supplied by [Stripe](https://stripe.com/)
+All credit card transactions are processed using secure encryption—the same level of encryption used by leading banks. Card information is transmitted, stored, and processed securely on a <a href="https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard">PCI-Compliant network</a>. supplied by [Stripe]: https://stripe.com/
 
 ## Over 10 years in business.
 
 We've been around the block and we've seen a lot of companies come and go. Security isn't just about technology, it's about trust. Over the past 10 years we've worked hard to earn the trust of over hundreds of thousands of companies in the United States. We'll continue to work hard every day to maintain that trust. Longevity and stability is core to our mission at PASS Training & Compliance.
 
-## Want to know more?
-
-[Read our security whitepaper][security-whitepaper-pdf] for additional details.
-
 ## Have a concern? Need to report an incident?
 
-Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please visit our [security response page](/security/vulnerability-response.md) for details on how to securely submit a report.
+Have you noticed abuse, misuse, an exploit, or experienced an incident with your account? Please contact [support]: https://passtesting.com/support

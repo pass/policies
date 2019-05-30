@@ -21,4 +21,4 @@ We track uptime by measuring the server side error rate along with using server 
 PASS Training & Compliance may update this SLA once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site.
 
 ## What if I have questions about this SLA?
-Please get in touch with [support](passtesting.com/support) and we’ll be happy to answer them!
+Please get in touch with [support]: https://passtesting.com/support and we’ll be happy to answer them!
