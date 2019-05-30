@@ -1,6 +1,4 @@
 [home]: /
-[help-owners]: https://passtesting.com/help/3/guides/account/ownership
-[help-adminland]: https://passtesting.com/help/3/guides/account/adminland
 [support]: https://passtesting.com/support
 [support-email]: mailto:support@passtesting.com
 

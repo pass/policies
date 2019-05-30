@@ -23,5 +23,4 @@ We welcome our customers—you!—to suggest changes to our policies and to offe
 
 ## Steal These Policies
 
-You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license.
-Edit them. Adapt them to your needs. Share them. Put them to work.
+You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license. Adapt them to your needs. Share them. Put them to work. 

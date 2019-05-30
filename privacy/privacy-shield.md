@@ -61,7 +61,7 @@ You understand that PASS Training & Compliance uses third party vendors and host
 In cases of onward transfer to these third parties for data of EU or Swiss individuals received pursuant to the Privacy Shield Frameworks, PASS Training & Compliance is potentially liable should any issues or concerns arise.
 
 ## Deleted Data
-When you cancel your account, we'll ensure that nothing is stored on our servers past 60 days. Anything you delete on your account while it's active will also be purged within 60 days (up until then it's available in the trash can).
+When you cancel your account, we'll ensure that nothing is stored on our servers past 60 days. Anything you delete on your account while it's active will also be purged within 60 days (up until then it's available in the inactive tab).
 
 ## EU-US and Swiss-US Privacy Shield Framework
 PASS Training & Compliance complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. PASS Training & Compliance has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.

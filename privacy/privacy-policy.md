@@ -2,7 +2,7 @@
 
 # PASS Training & Compliance privacy policy
 
-*Last updated: Jan 08, 2019*
+*Last updated: May 1st, 2019*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
@@ -18,7 +18,7 @@ The only times we’ll ever share your info:
 
 * To provide products or services you've requested, with your permission. [List of third-party services we use](/privacy/subprocessors.md).
 * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](/terms.md), or as otherwise required by law.
-* If PASS Training & Compliance is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+* If PASS Training & Compliance is acquired by or merged with another company we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 
 ## Your Rights With Respect to Your Information
