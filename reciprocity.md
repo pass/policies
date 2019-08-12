@@ -1,4 +1,4 @@
-# PASS Training UST Operator Training Reciprocity Policy.
+# UST Class A/B/C Operator Training Reciprocity policy.
 
 Reciprocity is hard to track — some states accept it, while others don't, and more often
 than not it requires express written approval from the regulator.

@@ -14,6 +14,7 @@ The rough print and the fine print. We try to make all our policies as clear, fa
 * [U.S. local and state taxes](taxes.md)
 * [Account ownership information for PASS Training & Compliance](ownership.md)
 * [Service Level Agreement (SLA) for PASS Training & Compliance](sla.md)
+* [UST Class A/B/C Operator Training Reciprocity policy ](sla.md)
 
 
 ## Public Contributions Welcome
@@ -23,4 +24,4 @@ We welcome our customers—you!—to suggest changes to our policies and to offe
 
 ## Steal These Policies
 
-You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license. Adapt them to your needs. Share them. Put them to work. 
+You're free to use these policies in your own organization under the [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) license. Adapt them to your needs. Share them. Put them to work.
