@@ -4,6 +4,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 
 ## Subprocessors located in the United States:
 * [Amazon Web Services](https://aws.amazon.com/compliance/gdpr-center/) - cloud webserver/hosting provider
+* [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/DataDurability.html) - cloud file/asset storage
 * [Heroku](https://www.salesforce.com/company/privacy/) - web server management tools/platform
 * [Stripe](https://stripe.com/privacy) - payment processing services
 * [Google Analytics](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics service
@@ -22,7 +23,6 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * *.stripe.com
 
 ## Analytics, Tracking, and Tools
-*  pi.pardot.com
 * .google-analytics.com
 * .google.com/recaptcha/api2/anchor
 
