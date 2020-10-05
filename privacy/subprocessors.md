@@ -9,6 +9,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * [Stripe](https://stripe.com/privacy) - payment processing services
 * [Google Analytics](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics service
 * [Honeybadger](https://www.honeybadger.io/privacy/) - software error tracking
+* [PDFTron](https://www.pdftron.com/privacy/) - PDF Viewing & Editing
 
 ## Our Sites, Assets, and CDNs
 * *.passtesting.com
@@ -18,6 +19,9 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * pass-training-dev-assets.s3.amazonaws.com
 * passmarketing-assets.s3.amazonaws.com
 * passapp-assets.s3.amazonaws.com
+
+## PDF Viewing & Editors
+* *.pdftron.com
 
 ## Payment Processor
 * *.stripe.com
