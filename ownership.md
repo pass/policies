@@ -6,7 +6,7 @@
 
 PASS Training & Compliance accounts are owned and paid for by organizations. When you sign up and create a [PASS Training & Compliance account][home], your organization is the owner of that account and all the data in it. Designated account admins legally representing the owners are the only people who can access all new PASS Training & Compliances created in the account.
 
-PASS Training & Compliance accounts can have [multiple owners][help-owners]. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+PASS Training & Compliance accounts can have multiple admin users. We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## Designating other people as owners
 
