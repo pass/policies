@@ -2,8 +2,8 @@
 [uptime]: http://status.passtesting.com/
 [status]: http://status.passtesting.com/
 
-# PASS Training & Compliance Big SLA
-Thousands of companies rely on PASS Training & Compliance. Just like you, PASS Training & Compliance is our company's lifeline. It's where we make decisions, share designs, debate ideas, broadcast companywide announcements, and keep up to date on what everyone's working on. That's why we guarantee 99.99% monthly uptime to teams on PASS Training & Compliance Big.
+# PASS Training & Compliance SLA
+Thousands of companies rely on PASS Training & Compliance. Just like you, PASS Training & Compliance is our company's lifeline. It's where we make decisions, share designs, debate ideas, broadcast companywide announcements, and keep up to date on what everyone's working on. That's why we guarantee 99.99% monthly uptime to teams on PASS Training & Compliance products.
 
 ## What is "uptime"?
 “Uptime” refers to the period of time when PASS Training & Compliance is up and running.
