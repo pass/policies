@@ -56,7 +56,7 @@ For more information about how we keep your information secure, please review ou
 
 ## Deleted data
 
-When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days (up until then it's available in the trash can).
+When you cancel your account, we'll ensure that nothing is stored on our servers past 30 days. Anything you delete on your account while it's active will also be purged within 30 days. State certifications and training Records will be maintained indefinitely. 
 
 
 ## EU-US and Swiss-US Privacy Shield policy
