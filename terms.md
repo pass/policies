@@ -37,6 +37,7 @@ Customers may access their Service data via the Application Program Interface ("
 3. If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately, and you will not be charged again. But there will not be any prorating of unused time in the last billing cycle.
 4. PASS Training & Compliance, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service for any reason at any time. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all content in your account. PASS Training & Compliance reserves the right to refuse service to anyone for any reason at any time.
 5. Any cancellation defined with a agreement/contract must follow terms dictated in the agreement
+6. State certifications and training Records will be maintained indefinitely. 
 
 ## Modifications to the Service and Prices
 
