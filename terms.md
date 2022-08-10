@@ -1,6 +1,6 @@
 # PASS Training & Compliance Terms of Service
 
-By using the PASS Training & Compliance ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
+By using any PASS Training & Compliance software ("Service"), you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 
 PASS Training & Compliance, LLC ("Company") reserves the right to update and change these Terms of Service without notice.
 
