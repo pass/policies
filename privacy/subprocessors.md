@@ -7,7 +7,8 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/DataDurability.html) - cloud file/asset storage
 * [Heroku](https://www.salesforce.com/company/privacy/) - web server management tools/platform
 * [Stripe](https://stripe.com/privacy) - payment processing services
-* [Google Analytics](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics service
+* [Google](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics and single sign on
+* [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) - Single sign on
 * [Honeybadger](https://www.honeybadger.io/privacy/) - software error tracking
 * [PDFTron](https://www.pdftron.com/privacy/) - PDF Viewing & Editing
 
