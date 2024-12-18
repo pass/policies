@@ -35,10 +35,10 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 PASS leverages the Heroku platform for all its web server needs. We use Amazon S3 to handle our assets. Extra application and database servers can be instantly spun up as needed, allowing us to scale quickly and efficiently. We leverage caching technologies and optimize code for proficiency. Third parties such as Pardot and Google Analytics collect analytical data pertaining to our system’s performance.
 
 ## Privacy and Encryption
-PASS uses 256-bit SSL encryption for all websites and applications. Stripe is also used as our payment processor, allowing us to be fully PCI compliant.
+PASS uses 256-bit SSL encryption for all websites and applications. Stripe is also used as our payment processor, allowing us to be fully PCI-compliant.
 
 ## Supported Browsers
-PASS supports all Webkit and Gecko-based browsers including Safari, Firefox, and Chrome, and Edge. We also support Microsoft Internet Explorer 11.
+PASS supports all up-to-date Webkit and Gecko-based browsers, including Safari, Firefox, Chrome, and Edge.
 
 ## Technical Training Content Abstract
 PASS uses the latest HTML5 web technologies to deliver streaming audio and video within our training content. All downloadable materials in our training content are served from one of the sites listed above.
