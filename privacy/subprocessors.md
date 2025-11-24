@@ -20,10 +20,9 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * pass-training-dev-assets.s3.amazonaws.com
 * passmarketing-assets.s3.amazonaws.com
 * passapp-assets.s3.amazonaws.com
-* cdn.cloud.pspdfkit.com
 
 ## PDF Viewing & Editors
-* *.pdftron.com
+* cdn.cloud.pspdfkit.com
 
 ## Payment Processor
 * *.stripe.com
