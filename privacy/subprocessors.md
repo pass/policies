@@ -10,7 +10,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * [Google](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics and single sign on
 * [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) - Single sign on
 * [Honeybadger](https://www.honeybadger.io/privacy/) - software error tracking
-* [PDFTron](https://www.pdftron.com/privacy/) - PDF Viewing & Editing
+* [Nutrient](https://www.nutrient.io/sdk/web/) - PDF Viewing & Editing
 
 ## Our Sites, Assets, and CDNs
 * *.passtesting.com
@@ -20,6 +20,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * pass-training-dev-assets.s3.amazonaws.com
 * passmarketing-assets.s3.amazonaws.com
 * passapp-assets.s3.amazonaws.com
+* cdn.cloud.pspdfkit.com
 
 ## PDF Viewing & Editors
 * *.pdftron.com
@@ -30,6 +31,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 ## Analytics, Tracking, and Tools
 * .google-analytics.com
 * .google.com/recaptcha/api2/anchor
+* .embed.hbuptime.com
 
 ## Platform Detail
 PASS leverages the Heroku platform for all its web server needs. We use Amazon S3 to handle our assets. Extra application and database servers can be instantly spun up as needed, allowing us to scale quickly and efficiently. We leverage caching technologies and optimize code for proficiency. Third parties such as Pardot and Google Analytics collect analytical data pertaining to our system’s performance.
