@@ -6,7 +6,7 @@ All data is written to multiple disks instantly, backed up daily, and stored in 
 
 ## Your data is sent using HTTPS.
 
-Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. All information stored in our database is encrypted at rest, and all assets such as images and PDFs are also encrypted at rest.
+Whenever your data is in transit between you and us, everything is encrypted, and sent using HTTPS. All information stored in our database is encrypted at rest, and all uploaded assets such as images and PDFs are also encrypted at rest.
 
 ## Full redundancy for all major systems.
 
