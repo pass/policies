@@ -9,7 +9,7 @@ Refunds are not issued for variable charges. For example, if a SaaS offer bills 
 
 Any activities billed under a contract are subject to terms listed in the contract and are not subject to our default refund policy.
 
-## PASS Training 
+## PASS Training (PASS Opus)
 
 ### Individual Training Courses 
 If you purchase a PASS training course, you are not eligible for a refund. If you or a student in your account doesn't finish their training, you can request that be added to your account as a credit within the current or immediately preceding billing period, not to exceed 30 days. Credits will not be applied to invoices older than one billing cycle, and closed billing periods will not be reopened for adjustment.
