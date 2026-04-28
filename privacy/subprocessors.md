@@ -24,6 +24,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 
 ## PDF Viewing & Editors
 * cdn.cloud.pspdfkit.com
+* cdn.cloud.nutrient.io
 
 ## Payment Processor
 * *.stripe.com
