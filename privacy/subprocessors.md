@@ -10,7 +10,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * [Stripe](https://stripe.com/privacy) - payment processing services
 * [Google](https://privacy.google.com/businesses/compliance/#!?modal_active=none) - web analytics and single sign on
 * [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) - Single sign on
-* [Honeybadger](https://www.honeybadger.io/privacy/) - software error tracking
+* [Sentry](https://sentry.io/privacy/) - software error tracking
 * [Nutrient](https://www.nutrient.io/sdk/web/) - PDF Viewing & Editing
 
 ## Our Sites, Assets, and CDNs
