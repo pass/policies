@@ -2,7 +2,7 @@
 
 # PASS Training & Compliance privacy policy
 
-*Last updated: May 1st, 2019*
+*Last updated: November 24th, 2026*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. We’ll only ever access your account to help you with a problem or squash a software bug. We’ll never open any uploaded files unless you ask us to. We log all access to all accounts by IP address, so we can always verify that no unauthorized access has happened for as long as the logs are kept.
 
@@ -14,12 +14,15 @@ When you pay for PASS Training & Compliance, we ask for your billing information
 
 When you write PASS Training & Compliance with a question or to ask for help, we'll keep that correspondence, and the email address, for future reference. When you browse our marketing pages, we'll track that for statistical purposes (like conversion rates and to test new designs). We also store any information you volunteer, like surveys, for as long as it makes sense.
 
+**Text messages.** If you turn on text alerts in PASS Tools, we ask for your mobile number and your consent to text you. We use that number only to send the alerts you chose. We keep a record of when and how you agreed. No mobile information will be shared with third parties or affiliates for marketing or promotional purposes. Message frequency varies. Message and data rates may apply. Reply STOP to stop texts, or HELP for help.
+
 The only times we’ll ever share your info:
 
 * To provide products or services you've requested, with your permission. [List of third-party services we use](/privacy/subprocessors.md).
 * To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](/terms.md), or as otherwise required by law.
 * If PASS Training & Compliance is acquired by or merged with another company we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
+Text message opt-in data and consent are excluded from every case above. We never share them with any third party.
 
 ## Your Rights With Respect to Your Information
 
