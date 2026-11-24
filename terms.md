@@ -52,6 +52,10 @@ Customers may access their Service data via the Application Program Interface ("
 3. PASS Training & Compliance does not pre-screen content, but reserves the right (but not the obligation) in their sole discretion to refuse or remove any content that is available via the Service.
 4. The look and feel of the Service is copyright© PASS Training & Compliance, LLC. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from PASS Training & Compliance.
 
+## Text Message Alerts
+
+PASS Tools Emergency Alerts sends texts about emergency alarms at your facilities to users who turn them on in their PASS Tools notification settings. Message frequency varies. Message and data rates may apply. **Reply STOP to cancel at any time. Reply HELP for help**, or email support@passtesting.com. Carriers are not liable for any delayed or undelivered messages. See our [Privacy Policy](/privacy/privacy-policy.md).
+
 ## General Conditions
 
 1. Your use of the Service is at your sole risk. The service is provided on an “as is” and “as available” basis.
