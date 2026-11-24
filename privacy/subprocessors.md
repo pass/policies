@@ -12,6 +12,7 @@ PASS Training & Compliance uses third party subprocessors, such as cloud computi
 * [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) - Single sign on
 * [Sentry](https://sentry.io/privacy/) - software error tracking
 * [Nutrient](https://www.nutrient.io/sdk/web/) - PDF Viewing & Editing
+* [Twilio](https://www.twilio.com/legal/privacy) - text message (SMS) delivery
 
 ## Our Sites, Assets, and CDNs
 * *.passtesting.com
